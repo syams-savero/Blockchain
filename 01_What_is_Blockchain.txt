@@ -2,48 +2,34 @@
 🔹 1. Blockchain
 
 A digital ledger 📖 that records transactions permanently.
-
 Decentralized → not controlled by a single entity, but by thousands of computers (nodes).
-
 Example: Bitcoin blockchain → only records BTC transfers.
-
 Example: Ethereum blockchain → records transactions + runs programs.
-
 Analogy: Like Google Docs that everyone can view, but no one can delete or alter freely.
 
 🔹 2. Smart Contract
 
 A self-executing program that runs on the blockchain (mainly Ethereum).
-
 Executes logic automatically according to written rules → no middleman needed.
-
 Example:
 
 “If A sends 1 ETH, then token X is automatically sent to A.”
-
 Used in DeFi, NFTs, Games, DAOs, etc.
-
 Analogy: Like a vending machine → insert money, get a drink automatically.
 
 🔹 3. Layer 2 (L2)
 
 A solution to make Ethereum faster & cheaper.
-
 L2 processes transactions outside Ethereum (L1), then settles the final result on L1 for security.
-
 Examples: Arbitrum, Optimism, zkSync.
-
 Analogy: Ethereum L1 = main highway (often jammed).
 → L2 = extra express lanes above it, smoother & faster, but final records still go to the main highway.
 
 🔹 4. Oracle
 
 A “data bridge” between blockchain & the real world.
-
 Blockchain itself is blind → it only knows on-chain data.
-
 Oracles feed it external data: USD price, weather, sports scores, etc.
-
 Examples: Chainlink, Band Protocol.
 
 Analogy: Smart contracts = isolated island 🏝️.
@@ -52,29 +38,19 @@ Oracle = ship 🚢 that delivers news from the outside world to the island.
 🔹 5. DApp (Decentralized Application)
 
 An application built on blockchain using smart contracts.
-
 Looks like a normal web/app on the front end, but the backend runs on blockchain.
-
 Examples:
 
 Uniswap (DEX / token swap)
-
 Aave (lending & borrowing crypto)
-
 OpenSea (NFT marketplace)
-
 Axie Infinity (NFT game)
-
 Analogy: Like regular apps (Instagram, Amazon), but the server isn’t owned by one company → it runs on the blockchain.
 
 ⚡ Ultra-Quick Recap
 
 Blockchain = Permanent digital ledger.
-
 Smart Contract = Automated blockchain program.
-
 Layer 2 = Faster, cheaper lanes on top of Ethereum.
-
 Oracle = Data bridge from the real world to blockchain.
-
 DApp = Blockchain-based apps powered by smart contracts.
