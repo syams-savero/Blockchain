@@ -1,0 +1,31 @@
+1. Purpose of Smart Contracts
+
+Smart contracts are digital agreements or programs that run automatically on a blockchain.
+Their purposes are:
+
+Automation → Remove intermediaries (notaries, banks, middlemen) so transactions happen directly between parties.
+Transparency → Rules and outcomes are recorded on the blockchain and cannot be altered.
+Security → Hard to manipulate because they are cryptographically secured and distributed.
+Cost & Time Efficiency → No bureaucracy or delays from third parties.
+Trust → The contract executes according to the code, not human promises.
+Example: a smart contract can automatically release payment once goods are delivered.
+
+2. Purpose of DeFi (Decentralized Finance)
+
+DeFi is a blockchain-based financial ecosystem that uses smart contracts without banks or traditional financial intermediaries.
+Its purposes are:
+
+Global Access → Anyone with internet can use financial services without needing a bank account.
+Decentralization → Not controlled by a single entity but by the network/community.
+Transparency & Auditability → All transactions are open on the blockchain.
+New Financial Products → Lending, borrowing, staking, asset swaps, insurance, and investing can be done peer-to-peer.
+Financial Freedom → Users have full control of their own assets (self-custody).
+
+Examples:
+Borrow crypto using other crypto as collateral (no bank needed).
+Provide liquidity to a pool and earn interest.
+
+👉 In short:
+
+Smart contract = the technology/tool → executes instructions automatically on the blockchain.
+DeFi = the application/ecosystem → uses smart contracts to enable financial activities without banks.
