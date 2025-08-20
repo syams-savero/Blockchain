@@ -1,0 +1,17 @@
+Features of Smart Contracts
+
+Smart contracts have several features that set them apart from traditional agreements:
+
+-Decentralization – Operate on the blockchain without central intermediaries, maintained by thousands of node operators.
+-Transparency & Flexibility – All activities are visible on-chain, with pseudo-anonymity ensuring privacy.
+-Speed & Efficiency – Transactions are much faster compared to traditional banking systems, including international transfers.
+-Security & Immutability – Once deployed, contracts cannot be altered; blockchain data is distributed and resilient.
+-Elimination of Counterparty Risk – Agreements are enforced automatically, removing the risk of one party not fulfilling obligations.
+
+
+Applications of Smart Contracts
+
+-DeFi (Decentralized Finance) – Access to financial products without intermediaries, with efficiency and transparency.
+-DAOs (Decentralized Autonomous Organizations) – Organizations run entirely by code with transparent governance.
+-NFTs (Non-Fungible Tokens) – Unique digital assets enabling new opportunities for creators.
+-Other Applications – Endless potential for future innovations.
