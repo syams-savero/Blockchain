@@ -1,0 +1,33 @@
+How to Create a MetaMask Wallet (Browser Extension)
+1. Install from the official site
+
+Go to metamask.io
+ → click Download → choose your browser (Chrome, Brave, Edge, or Firefox).
+Add the extension from the official browser store. Make sure the publisher is MetaMask.
+
+2. Open the extension → Get Started
+After installation, click the MetaMask icon in your browser toolbar.
+Choose “Create a new wallet” (or “Import” if you already have one).
+
+3. Create a password
+Set a strong password.
+This password only locks/unlocks MetaMask on your device — it is not your recovery key.
+
+4. Save your Secret Recovery Phrase (SRP)
+MetaMask will show you a 12-word Secret Recovery Phrase.
+Write it down on paper and store it offline.
+Never share your SRP with anyone, never upload it to cloud storage. Whoever has it controls your wallet.
+
+5. Confirm the SRP
+MetaMask will ask you to confirm the words in the correct order.
+Complete the confirmation → your wallet is ready to use.
+
+Security Tips
+Never share your SRP. MetaMask support or admins will never ask for it.
+Always double-check you are on the official site (metamask.io) before entering any sensitive info.
+If you change or lose your device, you can restore your wallet using the “Import with Secret Recovery Phrase” option.
+
+After setup, you can:
+Add tokens (click Import tokens if some don’t show up).
+Add new networks (e.g., Polygon, BSC).
+Connect a hardware wallet for extra security.
