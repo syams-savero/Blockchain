@@ -1,0 +1,30 @@
+Creating a Virtual Testnet on Tenderly
+Sign up on Tenderly and go to the dashboard.
+Select Virtual TestNets → Create Virtual TestNet.
+
+Configure:
+Parent network: Sepolia
+Name: e.g., my-chain
+Chain ID: 111555111 (or default)
+Public Explorer: Off
+State Sync: Use latest block
+Click Create and follow the trial extension steps.
+Add the network to MetaMask with Add to Wallet.
+Sending Your First Transaction in MetaMask
+Create a new account (e.g., Account 2) in MetaMask.
+From Account 1 (with balance), send ETH to Account 2.
+Enter the amount (e.g., 1 ETH) → Continue → Confirm.
+Wait until the transaction is confirmed and the balance updates.
+Viewing the Result in Tenderly
+Open the Explorer tab in the Tenderly dashboard.
+Find the latest non-grayed-out transaction.
+Click it to see details: sender, receiver, amount, timestamp, and raw data.
+
+Conclusion
+With these steps, you successfully:
+Created a virtual testnet in Tenderly.
+Connected it to MetaMask.
+Sent a simulated ETH transaction between accounts.
+Viewed transaction details in Tenderly.
+
+👉 This process works just like sending money on the real Ethereum network, but safely in a simulation.
