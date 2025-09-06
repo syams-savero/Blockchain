@@ -1,0 +1,33 @@
+Learning With testnet
+
+What is a Testnet?
+A testnet is a blockchain testing network that allows you to try out transactions and smart contracts without using real money.
+
+Why Use a Testnet?
+Practice sending transactions and understanding gas.
+Experiment safely without risking real assets.
+
+Popular Example:
+Sepolia, with its own explorer: sepolia.etherscan.io
+
+Faucets:
+To use a testnet, you need test tokens (e.g., test ETH). These are free and can be obtained from faucets, such as faucets.chain.link
+
+How to Use a Faucet (Example: Sepolia):
+Connect your wallet (e.g., MetaMask) to the faucet.
+Select the Sepolia network.
+Request test ETH (some faucets may require a Twitter login or another account).
+The test ETH will appear in your wallet balance.
+
+Viewing Transactions:
+Every transaction generates a transaction hash, which can be checked in an explorer like Sepolia Etherscan. Key details include:
+Hash (unique transaction ID)
+Status (success/failure)
+From (sender address)
+To (receiver address)
+Value (amount of test ETH sent)
+
+Important Notes:
+Testnet ETH has no real monetary value.
+Use it only for testing and learning.
+Testnets evolve and may change over time.
