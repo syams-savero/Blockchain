@@ -1,0 +1,37 @@
+Blockchains are secure because they’re closed, deterministic systems. Smart contracts run inside this isolated world. The downside: they cannot access external, real-world data on their own. No APIs, no weather data, no price feeds.
+
+But real applications need off-chain information:
+
+– DeFi protocols need real-time prices.
+– Insurance contracts need weather data.
+– Prediction markets need game results.
+– Supply chain systems need delivery confirmations.
+
+Since blockchains can’t fetch external data, this becomes the Blockchain Oracle Problem.
+
+Why not just use one oracle?
+Because one centralized data source becomes a huge vulnerability. If it’s hacked, goes offline, or lies, the entire “trustless” contract suddenly depends on a single trusted party. That completely defeats decentralization.
+
+Solution: Decentralized Oracle Networks (DONs)
+A DON is a network of independent oracle nodes. They all fetch the same data from multiple high-quality sources, compare results, reach consensus, and send the final verified value on-chain.
+
+This removes single points of failure and makes the data reliable.
+
+Hybrid Smart Contracts
+Modern smart contracts combine on-chain logic with off-chain data and computation from a DON.
+On-chain = secure, transparent code.
+Off-chain = real-world data and extra computation.
+
+Hybrid smart contracts unlock real use cases without sacrificing security.
+
+Chainlink: The Industry Standard
+Chainlink is the leading decentralized oracle network. It's blockchain-agnostic and offers essential services:
+
+– Data Feeds: reliable market prices for DeFi.
+– VRF: provably fair randomness for NFTs and games.
+– Automation: decentralized task scheduling.
+– Cross-Chain Messaging: communication between smart contracts across different blockchains.
+
+Chainlink solves the oracle problem and lets smart contracts safely interact with the real world.
+
+source : Cyfrin
